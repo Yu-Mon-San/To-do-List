@@ -31,6 +31,7 @@
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-black: #222;
+--clr-pink: rgb(255, 203, 214);
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
   --radius: 0.25rem;
@@ -159,7 +160,7 @@ todo List
 ===============
 */
 .section-center {
-  background: var(--clr-white);
+  background: var(--clr-pink);
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
   transition: var(--transition);
